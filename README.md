@@ -1,15 +1,21 @@
 ## Hi there 👋
-> whoami
-Rohan K Shine, A passionate developer who turns caffeine into code ☕💻
+```python
+class RohanKShine:
+    def __init__(self):
+        self.name = "Rohan K Shine"
+        self.stack = ["Frontend", "Backend", "Database"]
+        self.languages = ["Python", "Java", "SQL", "JavaScript"]
+        self.status = "Learning and building every day "
 
-> echo "Full Stack Developer | Problem Solver | Lifelong Learner"
-Full Stack Developer | Problem Solver | Lifelong Learner
+    def improve(self):
+        self.status = "Stronger than yesterday 💪"
+        return f"{self.name} — {self.status}"
 
-> skills --list
-Python, Java, SQL, React, Node.js
+developer = RohanKShine()
+print(developer.improve())
 
-> motto
-"Build. Break. Fix. Repeat."
+
+```
 
 
 
