@@ -21,12 +21,11 @@ print(developer.improve())
 
 
 ### 🔥 GitHub Stats
-
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan-60&show_icons=true&theme=codeSTACKr)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-60&layout=compact&theme=codeSTACKr)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohan-60&theme=codeSTACKr)
+![Streak Stats](https://streak-stats.demolab.com?user=Rohan-60&theme=codeSTACKr)
 
 
 <!--
